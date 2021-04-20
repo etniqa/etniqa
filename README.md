@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Steve @etniqa
-- 👀 I’m interested in software engineering, especially using Java (Spring) and Angular.
-- 🌱 I’m currently learning AI using sklearn.
+- 👀 I’m interested in software engineering, especially in Java (Spring) and Angular.
+- 🌱 I’m currently learning AI using sklearn and try to keep up with Java and Angular new things.
 - 💞️ I’m looking to collaborate on web applications using Spring and Angular Frameworks
-- 📫 You can reach me on https://www.linkedin.com/in/steve-baranov-7b01611a2/ or writing on etniqaaa@gmail.com 
+- 📫 You can reach me on https://www.linkedin.com/in/steve-baranov-7b01611a2/ or write on etniqaaa@gmail.com 
